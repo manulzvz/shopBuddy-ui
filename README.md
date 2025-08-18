@@ -105,7 +105,3 @@ Contributions are welcome! Please follow these steps:
 
 - [GitHub](https://github.com/manulzvz)
 - [LinkedIn](https://www.linkedin.com/in/manulzvz/)
-
-```
-
-```
