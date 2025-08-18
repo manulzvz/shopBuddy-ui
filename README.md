@@ -34,8 +34,6 @@ A responsive shopping interface built with **React** and **Vite**, focused on re
    cd shopBuddy-ui
    ```
 
-````
-
 2. **Install dependencies**
 
    ```bash
@@ -58,9 +56,9 @@ A responsive shopping interface built with **React** and **Vite**, focused on re
 
 ## Usage
 
-* Run the app locally and explore the shopping interface.
-* Add, remove, or customize components easily.
-* Use it as a base template for building scalable e-commerce UIs.
+- Run the app locally and explore the shopping interface.
+- Add, remove, or customize components easily.
+- Use it as a base template for building scalable e-commerce UIs.
 
 ---
 
@@ -84,16 +82,19 @@ Contributions are welcome! Please follow these steps:
    ```bash
    git checkout -b feature/my-feature
    ```
+
 3. Commit your changes:
 
    ```bash
    git commit -m 'Add my feature'
    ```
+
 4. Push to the branch:
 
    ```bash
    git push origin feature/my-feature
    ```
+
 5. Open a pull request.
 
 ---
@@ -102,8 +103,9 @@ Contributions are welcome! Please follow these steps:
 
 👤 **Manuel López**
 
-* [GitHub](https://github.com/manulzvz)
-* [LinkedIn](https://www.linkedin.com/in/manulzvz/)
+- [GitHub](https://github.com/manulzvz)
+- [LinkedIn](https://www.linkedin.com/in/manulzvz/)
 
+```
 
-````
+```
